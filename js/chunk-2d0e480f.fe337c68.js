@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e480f"],{9101:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div")},a=[],r={name:"Perms.template"},s=r,u=t("2877"),l=Object(u["a"])(s,c,a,!1,null,"d0cc7070",null);n["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0e480f.fe337c68.js.map

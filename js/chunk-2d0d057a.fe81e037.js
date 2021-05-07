@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d057a"],{6824:function(e,n,a){"use strict";a.r(n);var t=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("div")},u=[],c={name:"Bansadm.template.vue"},s=c,l=a("2877"),r=Object(l["a"])(s,t,u,!1,null,"61fab400",null);n["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d0d057a.fe81e037.js.map

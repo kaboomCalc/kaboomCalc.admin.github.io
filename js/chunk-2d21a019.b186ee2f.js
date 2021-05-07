@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21a019"],{ba59:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div")},c=[],s={name:"Bans.template"},u=s,l=t("2877"),r=Object(l["a"])(u,a,c,!1,null,"9d82692c",null);n["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d21a019.b186ee2f.js.map
